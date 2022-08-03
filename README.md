@@ -1,4 +1,4 @@
-# **Data engineering course by Dmitry Anoshin**
+# **Data learn course**
 
 ## In this rep I will share my homewroks. Let's go! 
 
