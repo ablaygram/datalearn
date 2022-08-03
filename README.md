@@ -1,4 +1,4 @@
-# **I started Data engineering course by Dmitry Anoshin**
+# **Data engineering course by Dmitry Anoshin**
 
 ## In this rep I will share my homewroks. Let's go! 
 
