@@ -7,7 +7,7 @@
 ## Задание 1: Архитектура Аналитического Решения
 Не претендую на истину первой инстанции, но спустя месяц работы в Citibank Kazakhstan условно представляю следующую схему:
 
-![Minion](C:\Users\aimbe\OneDrive\Документы\GitHub\datalearn\DE-101\Module 1\DE-101 HW1.drawio.png)
+![Minion](https://github.com/ablaygram/datalearn/blob/main/DE-101/Module%201/DE-101%20HW1.drawio.png)
 
 
 ## Аналитика в Excel
