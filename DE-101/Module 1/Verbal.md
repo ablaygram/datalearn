@@ -1,16 +1,16 @@
-Source Layer:
+###Source Layer:
 
 > Account Services Unit Analytics
 > CitiDirect and CitiServices
 > Kazakhstan Stock Exchange and Astana International Exchange sources 
 > Global Sanctions List
 
-Storage Layer:
+###Storage Layer:
 
 > Data Lake
 > Data Warehouse
 
-Access Layer:
+###Access Layer:
 
 > Sanction Screening services
 > KYC ("Know Your Client) application
